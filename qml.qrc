@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>ihm/font/Android.ttf</file>
+        <file>ihm/font/Exo-Medium.ttf</file>
+        <file>ihm/font/Monoglyceride.ttf</file>
+        <file>ihm/font/Generica.otf</file>
+        <file>ihm/font/titillium-web/OFL.txt</file>
+        <file>ihm/font/titillium-web/TitilliumWeb-Black.ttf</file>
+        <file>ihm/font/titillium-web/TitilliumWeb-Bold.ttf</file>
+        <file>ihm/font/titillium-web/TitilliumWeb-BoldItalic.ttf</file>
+        <file>ihm/font/titillium-web/TitilliumWeb-ExtraLight.ttf</file>
+        <file>ihm/font/titillium-web/TitilliumWeb-ExtraLightItalic.ttf</file>
+        <file>ihm/font/titillium-web/TitilliumWeb-Italic.ttf</file>
+        <file>ihm/font/titillium-web/TitilliumWeb-Light.ttf</file>
+        <file>ihm/font/titillium-web/TitilliumWeb-LightItalic.ttf</file>
+        <file>ihm/font/titillium-web/TitilliumWeb-Regular.ttf</file>
+        <file>ihm/font/titillium-web/TitilliumWeb-SemiBold.ttf</file>
+        <file>ihm/font/titillium-web/TitilliumWeb-SemiBoldItalic.ttf</file>
+    </qresource>
+</RCC>
